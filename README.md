@@ -17,9 +17,10 @@ Ce projet implémente une intelligence artificielle pour jouer au jeu du Tic Tac
 2. Assurez-vous que Python 3 est installé sur votre machine. Vous pouvez vérifier en exécutant :
   python3 --version
 
-## Utilisation
+## Utilisation du script
 Exécutez le script principal pour démarrer le jeu :
   python3 runner.py
+  
 
 
 Suivez les instructions à l'écran pour jouer contre l'IA. L'IA utilise l'algorithme Minimax pour déterminer le meilleur coup possible.
