@@ -1,6 +1,6 @@
 
 # Tic-Tac-Toe
-Ce projet implémente une intelligence artificielle pour jouer au jeu du Tic Tac Toe en utilisant l'algorithme Minimax. Le programme permet de jouer contre l'ordinateur en utilisant une stratégie optimale.
+Ce projet implémente une intelligence artificielle pour jouer au jeu du Tic Tac Toe en utilisant l'algorithme Minimax. Le programme permet de jouer contre l'ordinateur en utilisant une stratégie optimale. modif
 
 ## Prérequis
 
