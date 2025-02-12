@@ -1,26 +1,31 @@
 
 # Tic-Tac-Toe
-Ce projet implémente une intelligence artificielle pour jouer au jeu du Tic Tac Toe en utilisant l'algorithme Minimax. Le programme permet de jouer contre l'ordinateur en utilisant une stratégie optimale.
+This project implements an artificial intelligence to play Tic Tac Toe using the Minimax algorithm. The program allows you to play against the computer using an optimal strategy.
 
-## Prérequis
+
+## Prerequisites
 
 - Python 3.x
 
 ## Installation
 
-1. Clonez le dépôt sur votre machine locale :
+1. Clone the repository to your local machine:
 
    ```bash
    git clone https://github.com/votre-utilisateur/tic-tac-toe.git
    cd tic-tac-toe
    
-2. Assurez-vous que Python 3 est installé sur votre machine. Vous pouvez vérifier en exécutant :
-  python3 --version
+   
+2.Make sure Python 3 is installed on your machine. You can check by running:
+   ```bash
+   python3 --version
 
-## Utilisation du script
-Exécutez le script principal pour démarrer le jeu :
+
+## Running the Script
+Run the main script to start the game :
+```bash
   python3 runner.py
-  
 
 
-Suivez les instructions à l'écran pour jouer contre l'IA. L'IA utilise l'algorithme Minimax pour déterminer le meilleur coup possible.
+
+Follow the on-screen instructions to play against the AI. The AI uses the Minimax algorithm to determine the best possible move.
